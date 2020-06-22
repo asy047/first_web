@@ -1,0 +1,29 @@
+@charset "uft-8";
+#header > div {
+    height: 144px; background-color: rgb(252, 185, 185, 0.5);
+    position: relative;
+    width: 100%;
+    margin: 0px auto;
+}
+#header > div img {
+    position: absolute;
+    left: 20px;
+    top: 24px;
+}
+#header > div > div {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+#header > div > div:first-child{
+    font-size: 14px; text-decoration: none;
+    
+}
+#header > div > div:last-child{
+    font-size: 18px;
+    padding-top: 94px;
+}
+#header a {
+    font-size: 18px; color: #444444; text-decoration: none;
+}
+#
