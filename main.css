@@ -5,7 +5,7 @@
     width: 100%;
     margin: 0px auto;
 }
-#header > div img {
+#header img {
     position: absolute;
     left: 20px;
     top: 24px;
@@ -26,4 +26,16 @@
 #header a {
     font-size: 18px; color: #444444; text-decoration: none;
 }
-#
+#boder {
+    width: 1080px;
+    position: relative;
+    margin: 0px auto;
+    text-align: center;
+}
+#boder img {
+    width: 1080px;
+    top: 20px;
+}
+#boder span {
+    font-size: 14px;
+}
